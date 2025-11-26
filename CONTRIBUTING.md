@@ -1,7 +1,3 @@
-
-# ✅ **CONTRIBUTING.md (Version Professionnelle et Optimisée)**
-
-```md
 # 🤝 Contribution Guidelines  
 Thank you for your interest in contributing to the **Django Ultimate Advanced Guide**.
 
@@ -200,6 +196,5 @@ Your contribution helps build the **most advanced Django guide ever created**.
 Together, we are shaping a resource the entire world can learn from.
 
 If you have questions, open an issue — we will help you get started.
-```
 
 
