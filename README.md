@@ -3,7 +3,7 @@
 
 ### **Master-Level Django Concepts for Senior Developers & Software Architects**
 
-![Django Ultimate Advanced Guide](django advanced ultimate guide image.png)
+![Django Ultimate Advanced Guide](django-advanced-ultimate-guide-image.png)
 
 **Created by Donald Programmeur — HooYia**
 

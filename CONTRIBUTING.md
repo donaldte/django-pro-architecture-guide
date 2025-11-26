@@ -4,7 +4,6 @@ Thank you for your interest in contributing to the **Django Ultimate Advanced Gu
 This repository aims to become the **global reference** for advanced and enterprise-level Django concepts.  
 To maintain exceptional quality, every contribution must follow strict technical and editorial standards.
 
----
 
 # 📌 Who Can Contribute?
 This repository welcomes contributions from:
@@ -18,7 +17,6 @@ This repository welcomes contributions from:
 
 If you are learning Django, you are welcome to contribute by improving examples or documentation — but advanced technical sections require strong expertise.
 
----
 
 # 🧠 What You Can Contribute
 Contributions may include:
@@ -42,34 +40,32 @@ Contributions may include:
 - File organization improvements  
 - Enhancements to project automation (Makefile, scripts, templates)  
 
----
+
 
 # 📂 Repository Structure Requirements
 
 Each section folder (e.g. `core-internals/`, `orm-deep-dive/`) contains:
 
-```
 
+```sh
 /section-name/
 README.md           ← Theory & explanations
 /examples/          ← One Django mini-project per section
 django_example_project/
 create_app.py   ← Script to generate compliant apps
-
 ```
 
 ### ⚠ IMPORTANT  
 **All new example apps MUST be generated using the provided script:**
 
-```
-
+```sh
 python examples/create_app.py my_app
 
 ```
 
 This ensures consistency and maintainability across the repo.
 
----
+
 
 # 🧩 Technical Standards
 
@@ -88,7 +84,6 @@ This ensures consistency and maintainability across the repo.
 - Include diagrams if concept is architectural  
 - Include references whenever possible  
 
----
 
 # 🧪 Tests
 
@@ -100,13 +95,11 @@ Every PR containing Django code MUST include at least:
 
 Run all tests using:
 
-```
-
+```sh
 pytest
-
 ```
 
----
+
 
 # 📝 Writing a Good Pull Request
 
@@ -120,7 +113,7 @@ Before submitting your PR:
 
 ### PR Format (Required):
 
-```
+
 
 # 🧠 Summary
 
@@ -138,16 +131,13 @@ How to run them + expected output.
 
 (Optional) RFCs, official Django docs, academic papers.
 
-```
 
----
 
 # 🔄 Branching Strategy
 
 Use the following naming conventions:
 
-```
-
+``` sh
 feature/<topic-name>
 fix/<description>
 docs/<section-name>
@@ -158,15 +148,12 @@ tests/<topic>
 
 Examples:
 
-```
-
+```sh
 feature/orm-window-functions
 docs/async-deep-dive
 fix/middleware-diagram
-
 ```
 
----
 
 # 🎯 Core Principles of This Project
 
@@ -180,7 +167,6 @@ Every contribution must align with the following objectives:
 
 If your contribution does not significantly add clarity, depth, or value — reconsider it.
 
----
 
 # 🔔 Code of Conduct
 
@@ -188,7 +174,6 @@ All contributors must follow the project’s
 ➡️ **[CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)**  
 to maintain a respectful, constructive environment.
 
----
 
 # ⭐ Thank You
 
